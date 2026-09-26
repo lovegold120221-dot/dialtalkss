@@ -41,3 +41,8 @@ Production build:
 \`\`\`bash
 npm run build
 \`\`\`
+
+
+## Source sync
+
+Synced from `emilalvaroserrano-collab/dialtalk` at commit `73b743cbbca7921079f453094600a3812afbce94`.
